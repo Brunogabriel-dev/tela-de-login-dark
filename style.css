@@ -53,5 +53,18 @@ body {
 .textfield{
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
 }
+
+.textfield > input {
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  padding: 15px;
+  background: #514869;
+  color: #f0ffffde;
+  font-size: 12;
+}
+
 
