@@ -120,6 +120,20 @@ body {
   }
 
   .left-login{
-    
+    width: 100%;
+    height: auto;
+  }
+
+  .right-login{
+    width: 100%;
+    height: auto;
+  }
+
+  .left-login-image{
+    width: 50vw;
+  }
+
+  .card-login{
+    width: 90%;
   }
 }
