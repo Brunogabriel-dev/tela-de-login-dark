@@ -5,6 +5,10 @@ body {
   font-family: 'Noto Sans', sans-serif;
 }
 
+body * {
+  box-sizing: border-box;
+}
+
 .main-login{
   width: 100vw;
   height: 100vh;
