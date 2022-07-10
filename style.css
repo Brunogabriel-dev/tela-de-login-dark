@@ -120,7 +120,7 @@ body * {
     flex-direction: column;
   }
   .left-login > h1{
-    display:fff;
+    display:none;
   }
 
   .left-login{
